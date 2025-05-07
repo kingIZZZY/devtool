@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "hyperf/devtool": "~3.1.0"
+        "hyperf/devtool": "3.2.x-dev"
     },
     "autoload": {
         "psr-4": {
